@@ -48,7 +48,7 @@ pizza_name: Name of the pizza as shown in the menu
 
 Analysis was done on SQL and visualized on Power BI. I chose to use SQL for the analysis because With SQL, you can analyze small and big datasets, investigate problems and generate sales reports faster. I uploaded the dataset first on SQL Server where I did all the analysis before visualizing it on Power BI.
 
-This is the full [Analysis](https://github.com/Ernest-30/Pizza-Sales-Analysis/blob/main/Pizza_Sales_Analysis.sql)
+This is the full [Analysis](https://github.com/shivamAnand2811/Pizza_Sales_Analysis/blob/main/Pizza_Sales_Analysis.sql)
 
 # Findings
 
